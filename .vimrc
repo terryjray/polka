@@ -27,7 +27,9 @@ set encoding=utf-8
 " Color
 set t_Co=256
 set background=dark
-colorscheme solarized
+" colorscheme frozen
+" colorscheme lucid
+colorscheme eva01
 syntax on
 
 " Highlight breakpoints

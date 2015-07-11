@@ -1,5 +1,6 @@
 airblade vim-gitgutter
 altercation vim-colors-solarized
+hachy eva01.vim
 bling vim-airline
 duff vim-scratch
 jgdavey tslime.vim
@@ -8,7 +9,6 @@ kchmck vim-coffee-script
 kien ctrlp.vim
 mileszs ack.vim
 pangloss vim-javascript
-SirVer ultisnips
 tpope vim-bundler
 tpope vim-commentary
 tpope vim-cucumber

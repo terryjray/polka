@@ -1,5 +1,4 @@
 ack
-archey
 bash
 bash-completion
 coreutils
@@ -7,7 +6,6 @@ ctags
 curl
 gist
 git
-heroku-toolbelt
 node
 pidof
 python
