@@ -9,6 +9,7 @@ Personal dotfile and development configuration
 ### Upgrade Bash
 
 ```
+brew install bash # if you haven't already
 sudo echo /usr/local/bin/bash >> /etc/shells
 chsh -s /usr/local/bin/bash
 ```
