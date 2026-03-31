@@ -5,14 +5,14 @@ scriptencoding utf-8
 "=============================================
 
 " declare ruby path
-let g:ruby_path = system('echo $HOME/.rbenv/shims')
+"let g:ruby_path = system('echo $HOME/.rbenv/shims')
 
 " Start .vimrc
 set nocompatible
 filetype plugin indent on
 
 " minpac
-packadd minpac
+silent! packadd minpac
 
 if exists('*minpac#init')
   call minpac#init({'verbose': 3})
